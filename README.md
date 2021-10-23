@@ -32,8 +32,8 @@
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-$ git clone https://github.com/XrutzMalesin/a-master.git
-$ cd a-master
+$ git clone https://github.com/Lexxy24/botwa.git
+$ cd botwa
 $ npm start
 ```
 ## For Termux
