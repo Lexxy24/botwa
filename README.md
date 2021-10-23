@@ -10,7 +10,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bahasa&message=Indonesia&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/XrutzMalesin"><img title="Author" src="https://img.shields.io/badge/Author-Xrutz-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Lexxy24"><img title="Author" src="https://img.shields.io/badge/Author-LEX4YOU-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="LexxyOffc" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
