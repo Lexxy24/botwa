@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/a97d29ee6f3b676f4d145.jpg" alt="XrutzBot" width="170" />
+<img src="https://telegra.ph/file/d711b77eb6bf21a2d9663.jpg" alt="XrutzBot" width="170" />
 
 ## Selfbot WhatsApp
 ## session.json nya di ganti sama punya lu!
