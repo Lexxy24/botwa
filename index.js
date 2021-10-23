@@ -1174,7 +1174,7 @@ await itsmevall.setStatus(`Active since ${uptime}`).catch((_) => _);
 switch (command) {
 case 'help':
 case 'menu':
-       txtt =`*${ucapanWaktu}*\n*${pushname}*\n*Butuh bantuan?* Silahkan pakai Fitur yang ada di *BotWa!*`
+       txtt =`*${ucapanWaktu}*\n*${pushname}*\n\n*Butuh bantuan?* Silahkan pakai Fitur yang ada di *BotWa!*`
 
                buttons = [{buttonId:`${prefix}allmenu`,buttonText:{displayText: 'CEK MENU'},type:1},{buttonId:`${prefix}status`,buttonText:{displayText:'STATUS BOT'},type:1}]
 
